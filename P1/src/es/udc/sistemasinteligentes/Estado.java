@@ -1,6 +1,6 @@
 package es.udc.sistemasinteligentes;
 
-public abstract class Estado {
+public abstract class  Estado {
     /* El estado deberá sobreescribir estos métodos para mostrarse correctamente y permitir comparaciones. */
 
     @Override
