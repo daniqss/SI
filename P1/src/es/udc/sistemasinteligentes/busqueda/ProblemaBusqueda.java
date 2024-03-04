@@ -1,8 +1,5 @@
-package es.udc.sistemasinteligentes;
+package es.udc.sistemasinteligentes.busqueda;
 
-
-import java.util.Arrays;
-import java.util.function.Predicate;
 
 public abstract class ProblemaBusqueda {
     private Estado estadoInicial;

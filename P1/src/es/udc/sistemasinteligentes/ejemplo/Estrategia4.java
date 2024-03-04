@@ -1,6 +1,9 @@
 package es.udc.sistemasinteligentes.ejemplo;
 
-import es.udc.sistemasinteligentes.*;
+import es.udc.sistemasinteligentes.busqueda.Accion;
+import es.udc.sistemasinteligentes.busqueda.EstrategiaBusqueda;
+import es.udc.sistemasinteligentes.busqueda.Nodo;
+import es.udc.sistemasinteligentes.busqueda.ProblemaBusqueda;
 
 import java.util.ArrayList;
 import java.util.Collections;

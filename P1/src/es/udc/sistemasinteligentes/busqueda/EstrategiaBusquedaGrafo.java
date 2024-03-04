@@ -1,4 +1,4 @@
-package es.udc.sistemasinteligentes;
+package es.udc.sistemasinteligentes.busqueda;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

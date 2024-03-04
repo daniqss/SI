@@ -1,10 +1,8 @@
 package es.udc.sistemasinteligentes.ejemplo;
 
-import es.udc.sistemasinteligentes.Accion;
-import es.udc.sistemasinteligentes.Estado;
-import es.udc.sistemasinteligentes.ProblemaBusqueda;
-
-import java.util.Arrays;
+import es.udc.sistemasinteligentes.busqueda.Accion;
+import es.udc.sistemasinteligentes.busqueda.Estado;
+import es.udc.sistemasinteligentes.busqueda.ProblemaBusqueda;
 
 public class ProblemaAspiradora extends ProblemaBusqueda {
     public static class EstadoAspiradora extends Estado {

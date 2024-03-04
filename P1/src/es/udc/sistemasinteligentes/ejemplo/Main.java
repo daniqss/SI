@@ -1,7 +1,7 @@
 package es.udc.sistemasinteligentes.ejemplo;
 
-import es.udc.sistemasinteligentes.EstrategiaBusqueda;
-import es.udc.sistemasinteligentes.ProblemaBusqueda;
+import es.udc.sistemasinteligentes.busqueda.EstrategiaBusqueda;
+import es.udc.sistemasinteligentes.busqueda.ProblemaBusqueda;
 
 public class Main {
 
